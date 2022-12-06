@@ -1,5 +1,5 @@
-//kevin
-//computer science
+//gijsie 1
+//December 5 2022
 
 import java.util.*;
 
